@@ -1,0 +1,48 @@
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/assets/custom-styles/general-custom-styles.php aoki_qodef_h1_styles function */
+h1 { text-transform: uppercase;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/assets/custom-styles/general-custom-styles.php aoki_qodef_link_styles function */
+a, p a { color: #3980bf;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/contactform7/custom-styles/contact-form.php aoki_qodef_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { margin-top: 50px;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/contactform7/custom-styles/contact-form.php aoki_qodef_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { background-color: rgba(254, 62, 107, 1);}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/contactform7/custom-styles/contact-form.php aoki_qodef_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea { height: 100px;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/contactform7/custom-styles/contact-form.php aoki_qodef_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { font-size: 15px;line-height: 20px;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/contactform7/custom-styles/contact-form.php aoki_qodef_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea { height: 100px;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/contactform7/custom-styles/contact-form.php aoki_qodef_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { font-size: 16px;line-height: 20px;padding-top: 22px;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/error404/custom-styles/custom-styles.php aoki_qodef_404_header_general_styles function */
+.qodef-404-page .qodef-page-header .qodef-menu-area { background-color: rgba(0, 0, 0, 0) !important;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/error404/custom-styles/custom-styles.php aoki_qodef_404_page_general_styles function */
+.qodef-404-page .qodef-content { background-image: url(http://aoki.select-themes.com/wp-content/uploads/2017/11/404.jpg);background-position: center 0;background-size: cover;background-repeat: no-repeat;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/error404/custom-styles/custom-styles.php aoki_qodef_404_title_styles function */
+.qodef-404-page .qodef-page-not-found .qodef-404-title { color: #ffffff;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/error404/custom-styles/custom-styles.php aoki_qodef_404_subtitle_styles function */
+.qodef-404-page .qodef-page-not-found .qodef-404-subtitle { color: #ffffff;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php aoki_qodef_mobile_header_general_styles function */
+.qodef-mobile-header .qodef-mobile-header-inner { height: 40px;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php aoki_qodef_mobile_logo_styles function */
+.qodef-mobile-header .qodef-mobile-logo-wrapper a { max-height: 40px;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php aoki_qodef_header_top_bar_styles function */
+.qodef-top-bar-background { height: 91px;}
+
+/* generated in /home4/w9n6b4x8/public_html/studywithudaan.com/public_html/wp-content/themes/aoki/framework/modules/header/admin/custom-styles/header-custom-styles.php aoki_qodef_header_logo_area_styles function */
+.qodef-header-centered .qodef-logo-area .qodef-logo-wrapper { padding: ;}
+
